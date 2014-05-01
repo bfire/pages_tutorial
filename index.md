@@ -1,5 +1,6 @@
 ---
 name: Brandi
+layout: default
 ---
 
 # Hello world!
